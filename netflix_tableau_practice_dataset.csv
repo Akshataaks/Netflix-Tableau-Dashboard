@@ -1,0 +1,201 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,TV Show,Sample Title 1,Director 13,"Actor 16, Actor 159",Germany,12-02-2018,2018,PG,3 Seasons,Drama,Sample description for Tableau practice dataset.
+s2,Movie,Sample Title 2,Director 23,"Actor 80, Actor 199",United States,26-08-2022,2000,TV-14,111 min,Documentary,Sample description for Tableau practice dataset.
+s3,Movie,Sample Title 3,Director 3,"Actor 85, Actor 178",Japan,22-08-2020,2000,PG-13,108 min,Comedy,Sample description for Tableau practice dataset.
+s4,TV Show,Sample Title 4,Director 22,"Actor 56, Actor 109",Spain,15-06-2016,2001,PG-13,4 Seasons,Drama,Sample description for Tableau practice dataset.
+s5,TV Show,Sample Title 5,Director 34,"Actor 57, Actor 149",United States,20-11-2016,2000,R,3 Seasons,Horror,Sample description for Tableau practice dataset.
+s6,Movie,Sample Title 6,Director 19,"Actor 48, Actor 120",United Kingdom,22-06-2021,2002,PG-13,108 min,Documentary,Sample description for Tableau practice dataset.
+s7,Movie,Sample Title 7,Director 3,"Actor 79, Actor 112",Canada,26-03-2017,2012,R,132 min,Thriller,Sample description for Tableau practice dataset.
+s8,Movie,Sample Title 8,Director 29,"Actor 24, Actor 129",India,14-05-2022,2002,PG,123 min,Comedy,Sample description for Tableau practice dataset.
+s9,Movie,Sample Title 9,Director 15,"Actor 65, Actor 101",South Korea,22-02-2019,2020,TV-14,128 min,Drama,Sample description for Tableau practice dataset.
+s10,Movie,Sample Title 10,Director 21,"Actor 96, Actor 169",Canada,26-01-2017,2018,TV-MA,104 min,Comedy,Sample description for Tableau practice dataset.
+s11,Movie,Sample Title 11,Director 38,"Actor 75, Actor 139",Canada,26-02-2021,2012,TV-Y7,115 min,Adventure,Sample description for Tableau practice dataset.
+s12,TV Show,Sample Title 12,Director 21,"Actor 28, Actor 120",Germany,19-01-2019,2016,TV-Y7,2 Seasons,Drama,Sample description for Tableau practice dataset.
+s13,TV Show,Sample Title 13,Director 36,"Actor 91, Actor 187",Germany,29-08-2021,2003,TV-14,2 Seasons,Thriller,Sample description for Tableau practice dataset.
+s14,Movie,Sample Title 14,Director 7,"Actor 81, Actor 130",Japan,17-10-2020,2021,TV-Y,130 min,Comedy,Sample description for Tableau practice dataset.
+s15,TV Show,Sample Title 15,Director 27,"Actor 16, Actor 103",Canada,14-04-2019,2017,R,5 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s16,Movie,Sample Title 16,Director 32,"Actor 39, Actor 111",Germany,26-02-2016,2008,PG,134 min,Adventure,Sample description for Tableau practice dataset.
+s17,TV Show,Sample Title 17,Director 33,"Actor 35, Actor 141",United States,12-10-2020,2004,TV-MA,5 Seasons,Romance,Sample description for Tableau practice dataset.
+s18,TV Show,Sample Title 18,Director 32,"Actor 75, Actor 165",India,25-05-2020,2016,TV-14,4 Seasons,Kids,Sample description for Tableau practice dataset.
+s19,Movie,Sample Title 19,Director 1,"Actor 56, Actor 105",Brazil,29-01-2016,2000,R,140 min,Action,Sample description for Tableau practice dataset.
+s20,Movie,Sample Title 20,Director 12,"Actor 59, Actor 101",India,01-11-2019,2023,TV-Y7,122 min,Sci-Fi,Sample description for Tableau practice dataset.
+s21,Movie,Sample Title 21,Director 8,"Actor 84, Actor 124",South Korea,18-05-2016,2024,TV-14,102 min,Horror,Sample description for Tableau practice dataset.
+s22,Movie,Sample Title 22,Director 9,"Actor 45, Actor 151",Germany,22-07-2016,2011,PG,128 min,Horror,Sample description for Tableau practice dataset.
+s23,Movie,Sample Title 23,Director 34,"Actor 84, Actor 116",United States,05-03-2022,2001,TV-MA,114 min,Comedy,Sample description for Tableau practice dataset.
+s24,TV Show,Sample Title 24,Director 38,"Actor 1, Actor 199",India,24-03-2018,2014,TV-MA,4 Seasons,Drama,Sample description for Tableau practice dataset.
+s25,TV Show,Sample Title 25,Director 33,"Actor 25, Actor 119",France,18-04-2016,2005,PG-13,3 Seasons,Thriller,Sample description for Tableau practice dataset.
+s26,Movie,Sample Title 26,Director 37,"Actor 91, Actor 127",India,29-05-2019,2005,R,132 min,Adventure,Sample description for Tableau practice dataset.
+s27,TV Show,Sample Title 27,Director 26,"Actor 94, Actor 149",India,19-10-2018,2023,TV-Y7,2 Seasons,Comedy,Sample description for Tableau practice dataset.
+s28,TV Show,Sample Title 28,Director 21,"Actor 69, Actor 170",United States,17-06-2020,2022,PG,3 Seasons,Documentary,Sample description for Tableau practice dataset.
+s29,TV Show,Sample Title 29,Director 27,"Actor 57, Actor 161",Canada,03-06-2021,2015,PG-13,5 Seasons,Thriller,Sample description for Tableau practice dataset.
+s30,Movie,Sample Title 30,Director 3,"Actor 21, Actor 164",India,19-04-2020,2015,TV-14,107 min,Drama,Sample description for Tableau practice dataset.
+s31,Movie,Sample Title 31,Director 37,"Actor 46, Actor 139",Spain,14-12-2017,2006,TV-Y7,112 min,Action,Sample description for Tableau practice dataset.
+s32,TV Show,Sample Title 32,Director 13,"Actor 1, Actor 188",India,25-03-2019,2004,TV-14,4 Seasons,Romance,Sample description for Tableau practice dataset.
+s33,Movie,Sample Title 33,Director 1,"Actor 94, Actor 129",India,16-05-2016,2006,TV-MA,140 min,Comedy,Sample description for Tableau practice dataset.
+s34,Movie,Sample Title 34,Director 33,"Actor 47, Actor 177",South Korea,04-08-2017,2007,R,96 min,Comedy,Sample description for Tableau practice dataset.
+s35,TV Show,Sample Title 35,Director 5,"Actor 95, Actor 189",Spain,22-05-2022,2020,TV-14,5 Seasons,Horror,Sample description for Tableau practice dataset.
+s36,Movie,Sample Title 36,Director 22,"Actor 100, Actor 146",United States,27-06-2022,2000,TV-MA,85 min,Adventure,Sample description for Tableau practice dataset.
+s37,TV Show,Sample Title 37,Director 33,"Actor 93, Actor 131",Germany,10-06-2018,2002,PG,1 Seasons,Comedy,Sample description for Tableau practice dataset.
+s38,TV Show,Sample Title 38,Director 19,"Actor 60, Actor 115",United Kingdom,16-05-2022,2023,TV-14,2 Seasons,Kids,Sample description for Tableau practice dataset.
+s39,TV Show,Sample Title 39,Director 38,"Actor 37, Actor 186",South Korea,01-02-2016,2016,TV-MA,1 Seasons,Thriller,Sample description for Tableau practice dataset.
+s40,Movie,Sample Title 40,Director 35,"Actor 94, Actor 117",South Korea,01-07-2016,2020,PG-13,88 min,Drama,Sample description for Tableau practice dataset.
+s41,TV Show,Sample Title 41,Director 35,"Actor 47, Actor 132",Canada,13-07-2016,2005,PG,2 Seasons,Kids,Sample description for Tableau practice dataset.
+s42,Movie,Sample Title 42,Director 13,"Actor 57, Actor 195",Canada,26-05-2020,2022,TV-Y7,90 min,Sci-Fi,Sample description for Tableau practice dataset.
+s43,TV Show,Sample Title 43,Director 17,"Actor 16, Actor 180",United Kingdom,15-03-2018,2009,TV-14,4 Seasons,Romance,Sample description for Tableau practice dataset.
+s44,Movie,Sample Title 44,Director 2,"Actor 4, Actor 141",Japan,04-06-2020,2022,PG-13,117 min,Kids,Sample description for Tableau practice dataset.
+s45,TV Show,Sample Title 45,Director 40,"Actor 75, Actor 124",South Korea,15-05-2019,2000,PG-13,5 Seasons,Thriller,Sample description for Tableau practice dataset.
+s46,TV Show,Sample Title 46,Director 23,"Actor 31, Actor 101",France,03-04-2020,2022,TV-Y7,2 Seasons,Adventure,Sample description for Tableau practice dataset.
+s47,Movie,Sample Title 47,Director 24,"Actor 91, Actor 193",India,17-09-2019,2011,TV-14,102 min,Action,Sample description for Tableau practice dataset.
+s48,Movie,Sample Title 48,Director 37,"Actor 54, Actor 116",France,30-11-2017,2017,TV-Y,138 min,Sci-Fi,Sample description for Tableau practice dataset.
+s49,Movie,Sample Title 49,Director 15,"Actor 90, Actor 190",Canada,15-11-2021,2012,TV-14,108 min,Comedy,Sample description for Tableau practice dataset.
+s50,TV Show,Sample Title 50,Director 24,"Actor 41, Actor 120",France,26-06-2019,2018,TV-14,3 Seasons,Documentary,Sample description for Tableau practice dataset.
+s51,Movie,Sample Title 51,Director 27,"Actor 5, Actor 129",United Kingdom,22-02-2020,2014,TV-Y,102 min,Thriller,Sample description for Tableau practice dataset.
+s52,Movie,Sample Title 52,Director 13,"Actor 100, Actor 122",Spain,26-08-2020,2001,PG-13,88 min,Sci-Fi,Sample description for Tableau practice dataset.
+s53,TV Show,Sample Title 53,Director 11,"Actor 3, Actor 153",Japan,31-08-2020,2005,TV-Y,2 Seasons,Drama,Sample description for Tableau practice dataset.
+s54,Movie,Sample Title 54,Director 29,"Actor 56, Actor 143",Japan,11-10-2022,2014,TV-MA,127 min,Sci-Fi,Sample description for Tableau practice dataset.
+s55,TV Show,Sample Title 55,Director 38,"Actor 81, Actor 158",Germany,17-03-2016,2002,PG-13,4 Seasons,Documentary,Sample description for Tableau practice dataset.
+s56,Movie,Sample Title 56,Director 26,"Actor 76, Actor 190",United States,31-01-2022,2016,TV-14,93 min,Kids,Sample description for Tableau practice dataset.
+s57,TV Show,Sample Title 57,Director 12,"Actor 19, Actor 175",United States,23-10-2020,2003,PG,2 Seasons,Romance,Sample description for Tableau practice dataset.
+s58,Movie,Sample Title 58,Director 15,"Actor 55, Actor 197",Brazil,09-03-2018,2007,TV-Y7,82 min,Documentary,Sample description for Tableau practice dataset.
+s59,TV Show,Sample Title 59,Director 2,"Actor 3, Actor 136",Japan,07-10-2017,2002,TV-Y,3 Seasons,Kids,Sample description for Tableau practice dataset.
+s60,Movie,Sample Title 60,Director 25,"Actor 73, Actor 124",Japan,17-09-2020,2004,PG-13,107 min,Action,Sample description for Tableau practice dataset.
+s61,Movie,Sample Title 61,Director 16,"Actor 48, Actor 133",Brazil,15-09-2022,2024,TV-MA,87 min,Kids,Sample description for Tableau practice dataset.
+s62,Movie,Sample Title 62,Director 23,"Actor 51, Actor 120",United Kingdom,18-07-2016,2007,TV-14,90 min,Adventure,Sample description for Tableau practice dataset.
+s63,TV Show,Sample Title 63,Director 40,"Actor 96, Actor 169",India,03-06-2017,2003,TV-Y7,4 Seasons,Romance,Sample description for Tableau practice dataset.
+s64,TV Show,Sample Title 64,Director 2,"Actor 76, Actor 115",Brazil,06-04-2021,2024,TV-Y,3 Seasons,Romance,Sample description for Tableau practice dataset.
+s65,TV Show,Sample Title 65,Director 12,"Actor 46, Actor 140",South Korea,02-03-2022,2023,TV-14,1 Seasons,Romance,Sample description for Tableau practice dataset.
+s66,Movie,Sample Title 66,Director 19,"Actor 82, Actor 129",Brazil,07-06-2016,2012,R,107 min,Romance,Sample description for Tableau practice dataset.
+s67,Movie,Sample Title 67,Director 8,"Actor 33, Actor 184",Japan,13-09-2020,2018,TV-MA,136 min,Kids,Sample description for Tableau practice dataset.
+s68,Movie,Sample Title 68,Director 21,"Actor 14, Actor 186",South Korea,29-09-2017,2012,TV-Y,83 min,Horror,Sample description for Tableau practice dataset.
+s69,Movie,Sample Title 69,Director 37,"Actor 97, Actor 123",Brazil,24-12-2019,2011,TV-14,96 min,Action,Sample description for Tableau practice dataset.
+s70,TV Show,Sample Title 70,Director 16,"Actor 3, Actor 142",India,19-12-2017,2003,PG-13,4 Seasons,Drama,Sample description for Tableau practice dataset.
+s71,TV Show,Sample Title 71,Director 26,"Actor 5, Actor 179",Canada,10-04-2021,2020,TV-Y,5 Seasons,Documentary,Sample description for Tableau practice dataset.
+s72,TV Show,Sample Title 72,Director 40,"Actor 57, Actor 164",Japan,19-09-2021,2012,R,3 Seasons,Horror,Sample description for Tableau practice dataset.
+s73,TV Show,Sample Title 73,Director 16,"Actor 11, Actor 192",Canada,23-12-2021,2017,TV-Y,5 Seasons,Comedy,Sample description for Tableau practice dataset.
+s74,Movie,Sample Title 74,Director 35,"Actor 73, Actor 164",India,31-07-2020,2013,PG-13,88 min,Romance,Sample description for Tableau practice dataset.
+s75,TV Show,Sample Title 75,Director 30,"Actor 94, Actor 127",Germany,31-12-2019,2023,TV-14,2 Seasons,Comedy,Sample description for Tableau practice dataset.
+s76,TV Show,Sample Title 76,Director 11,"Actor 90, Actor 142",France,20-11-2016,2013,TV-Y7,5 Seasons,Romance,Sample description for Tableau practice dataset.
+s77,TV Show,Sample Title 77,Director 37,"Actor 95, Actor 110",France,22-05-2017,2018,TV-Y,5 Seasons,Horror,Sample description for Tableau practice dataset.
+s78,Movie,Sample Title 78,Director 7,"Actor 64, Actor 192",Canada,06-12-2017,2017,PG,118 min,Adventure,Sample description for Tableau practice dataset.
+s79,TV Show,Sample Title 79,Director 40,"Actor 43, Actor 129",South Korea,11-04-2019,2014,PG,1 Seasons,Comedy,Sample description for Tableau practice dataset.
+s80,TV Show,Sample Title 80,Director 23,"Actor 38, Actor 106",Germany,10-02-2018,2013,TV-14,2 Seasons,Kids,Sample description for Tableau practice dataset.
+s81,Movie,Sample Title 81,Director 8,"Actor 73, Actor 126",Germany,23-02-2018,2022,TV-MA,98 min,Action,Sample description for Tableau practice dataset.
+s82,Movie,Sample Title 82,Director 10,"Actor 39, Actor 138",Canada,18-10-2019,2019,TV-14,111 min,Kids,Sample description for Tableau practice dataset.
+s83,Movie,Sample Title 83,Director 1,"Actor 70, Actor 146",Spain,21-01-2022,2015,TV-14,100 min,Adventure,Sample description for Tableau practice dataset.
+s84,TV Show,Sample Title 84,Director 32,"Actor 25, Actor 194",Germany,11-12-2019,2014,TV-MA,5 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s85,Movie,Sample Title 85,Director 13,"Actor 48, Actor 140",Japan,27-11-2017,2000,TV-Y,98 min,Comedy,Sample description for Tableau practice dataset.
+s86,Movie,Sample Title 86,Director 5,"Actor 62, Actor 177",South Korea,02-10-2020,2009,TV-Y,115 min,Drama,Sample description for Tableau practice dataset.
+s87,Movie,Sample Title 87,Director 29,"Actor 58, Actor 121",Japan,23-11-2016,2023,PG,134 min,Horror,Sample description for Tableau practice dataset.
+s88,TV Show,Sample Title 88,Director 34,"Actor 5, Actor 137",Japan,22-01-2016,2012,TV-MA,4 Seasons,Horror,Sample description for Tableau practice dataset.
+s89,TV Show,Sample Title 89,Director 1,"Actor 86, Actor 196",Canada,15-07-2019,2014,TV-Y7,3 Seasons,Drama,Sample description for Tableau practice dataset.
+s90,Movie,Sample Title 90,Director 23,"Actor 39, Actor 107",Brazil,02-10-2019,2023,PG-13,113 min,Kids,Sample description for Tableau practice dataset.
+s91,TV Show,Sample Title 91,Director 20,"Actor 31, Actor 154",United States,04-06-2016,2022,TV-MA,4 Seasons,Action,Sample description for Tableau practice dataset.
+s92,Movie,Sample Title 92,Director 40,"Actor 29, Actor 113",Germany,12-09-2019,2002,TV-Y,95 min,Romance,Sample description for Tableau practice dataset.
+s93,Movie,Sample Title 93,Director 20,"Actor 13, Actor 194",France,12-01-2022,2007,TV-Y7,117 min,Horror,Sample description for Tableau practice dataset.
+s94,Movie,Sample Title 94,Director 34,"Actor 93, Actor 150",Canada,28-12-2021,2014,TV-MA,85 min,Action,Sample description for Tableau practice dataset.
+s95,TV Show,Sample Title 95,Director 1,"Actor 91, Actor 197",South Korea,04-08-2019,2022,PG-13,2 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s96,Movie,Sample Title 96,Director 36,"Actor 81, Actor 103",France,03-05-2019,2020,TV-Y7,112 min,Action,Sample description for Tableau practice dataset.
+s97,TV Show,Sample Title 97,Director 38,"Actor 49, Actor 194",United States,01-05-2021,2018,PG,3 Seasons,Horror,Sample description for Tableau practice dataset.
+s98,Movie,Sample Title 98,Director 36,"Actor 49, Actor 186",India,24-02-2021,2006,TV-Y,117 min,Thriller,Sample description for Tableau practice dataset.
+s99,TV Show,Sample Title 99,Director 6,"Actor 95, Actor 182",South Korea,19-05-2019,2005,TV-MA,5 Seasons,Comedy,Sample description for Tableau practice dataset.
+s100,Movie,Sample Title 100,Director 35,"Actor 52, Actor 128",Canada,20-09-2022,2017,TV-MA,123 min,Kids,Sample description for Tableau practice dataset.
+s101,Movie,Sample Title 101,Director 36,"Actor 22, Actor 165",South Korea,23-05-2016,2021,TV-MA,94 min,Comedy,Sample description for Tableau practice dataset.
+s102,TV Show,Sample Title 102,Director 31,"Actor 84, Actor 137",United Kingdom,28-02-2021,2010,TV-MA,1 Seasons,Action,Sample description for Tableau practice dataset.
+s103,Movie,Sample Title 103,Director 16,"Actor 77, Actor 119",Spain,03-10-2016,2004,TV-Y,100 min,Comedy,Sample description for Tableau practice dataset.
+s104,TV Show,Sample Title 104,Director 36,"Actor 25, Actor 185",South Korea,19-09-2021,2024,PG,5 Seasons,Adventure,Sample description for Tableau practice dataset.
+s105,TV Show,Sample Title 105,Director 38,"Actor 75, Actor 141",Spain,03-08-2016,2000,TV-Y7,5 Seasons,Kids,Sample description for Tableau practice dataset.
+s106,TV Show,Sample Title 106,Director 34,"Actor 92, Actor 119",South Korea,04-04-2020,2006,R,4 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s107,Movie,Sample Title 107,Director 27,"Actor 73, Actor 116",India,31-10-2021,2003,R,105 min,Adventure,Sample description for Tableau practice dataset.
+s108,Movie,Sample Title 108,Director 31,"Actor 44, Actor 190",India,07-05-2019,2009,TV-Y,99 min,Documentary,Sample description for Tableau practice dataset.
+s109,TV Show,Sample Title 109,Director 34,"Actor 36, Actor 148",United States,15-07-2017,2003,TV-Y,3 Seasons,Horror,Sample description for Tableau practice dataset.
+s110,TV Show,Sample Title 110,Director 13,"Actor 35, Actor 135",South Korea,17-09-2021,2014,TV-Y,1 Seasons,Action,Sample description for Tableau practice dataset.
+s111,Movie,Sample Title 111,Director 24,"Actor 17, Actor 103",Brazil,28-09-2017,2022,TV-14,136 min,Drama,Sample description for Tableau practice dataset.
+s112,Movie,Sample Title 112,Director 29,"Actor 65, Actor 121",South Korea,20-10-2019,2018,TV-MA,90 min,Documentary,Sample description for Tableau practice dataset.
+s113,TV Show,Sample Title 113,Director 32,"Actor 25, Actor 171",South Korea,28-06-2019,2008,PG,4 Seasons,Adventure,Sample description for Tableau practice dataset.
+s114,Movie,Sample Title 114,Director 28,"Actor 43, Actor 156",United States,02-12-2020,2021,TV-Y,94 min,Sci-Fi,Sample description for Tableau practice dataset.
+s115,Movie,Sample Title 115,Director 40,"Actor 6, Actor 101",Germany,14-07-2016,2011,R,104 min,Horror,Sample description for Tableau practice dataset.
+s116,TV Show,Sample Title 116,Director 16,"Actor 65, Actor 188",Spain,20-05-2016,2017,TV-14,3 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s117,Movie,Sample Title 117,Director 34,"Actor 18, Actor 159",France,26-04-2020,2016,TV-MA,136 min,Kids,Sample description for Tableau practice dataset.
+s118,TV Show,Sample Title 118,Director 37,"Actor 39, Actor 143",Japan,11-02-2022,2007,R,4 Seasons,Horror,Sample description for Tableau practice dataset.
+s119,Movie,Sample Title 119,Director 19,"Actor 86, Actor 118",France,17-03-2016,2003,TV-Y,117 min,Sci-Fi,Sample description for Tableau practice dataset.
+s120,Movie,Sample Title 120,Director 28,"Actor 25, Actor 109",Canada,31-08-2022,2019,PG,131 min,Romance,Sample description for Tableau practice dataset.
+s121,TV Show,Sample Title 121,Director 22,"Actor 17, Actor 141",Japan,06-04-2020,2010,TV-14,3 Seasons,Horror,Sample description for Tableau practice dataset.
+s122,TV Show,Sample Title 122,Director 29,"Actor 23, Actor 174",Spain,29-10-2022,2020,PG,1 Seasons,Horror,Sample description for Tableau practice dataset.
+s123,TV Show,Sample Title 123,Director 40,"Actor 52, Actor 176",Germany,18-04-2018,2012,R,5 Seasons,Thriller,Sample description for Tableau practice dataset.
+s124,TV Show,Sample Title 124,Director 15,"Actor 77, Actor 116",Canada,05-04-2018,2024,TV-Y7,3 Seasons,Documentary,Sample description for Tableau practice dataset.
+s125,TV Show,Sample Title 125,Director 21,"Actor 86, Actor 162",Spain,19-03-2019,2010,TV-Y,3 Seasons,Drama,Sample description for Tableau practice dataset.
+s126,TV Show,Sample Title 126,Director 21,"Actor 50, Actor 108",Brazil,21-03-2021,2017,R,1 Seasons,Comedy,Sample description for Tableau practice dataset.
+s127,Movie,Sample Title 127,Director 8,"Actor 76, Actor 159",United States,15-05-2020,2002,PG-13,109 min,Horror,Sample description for Tableau practice dataset.
+s128,TV Show,Sample Title 128,Director 23,"Actor 9, Actor 104",United Kingdom,04-04-2022,2006,TV-MA,5 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s129,TV Show,Sample Title 129,Director 1,"Actor 46, Actor 101",India,24-04-2018,2016,TV-Y,5 Seasons,Thriller,Sample description for Tableau practice dataset.
+s130,TV Show,Sample Title 130,Director 2,"Actor 40, Actor 189",Japan,27-05-2016,2024,TV-MA,3 Seasons,Comedy,Sample description for Tableau practice dataset.
+s131,Movie,Sample Title 131,Director 17,"Actor 97, Actor 125",South Korea,15-06-2022,2022,TV-Y7,95 min,Action,Sample description for Tableau practice dataset.
+s132,Movie,Sample Title 132,Director 6,"Actor 19, Actor 126",Canada,11-11-2019,2005,TV-14,94 min,Sci-Fi,Sample description for Tableau practice dataset.
+s133,Movie,Sample Title 133,Director 24,"Actor 76, Actor 119",Canada,27-10-2016,2006,PG,83 min,Drama,Sample description for Tableau practice dataset.
+s134,TV Show,Sample Title 134,Director 32,"Actor 99, Actor 116",Canada,27-06-2017,2012,R,3 Seasons,Romance,Sample description for Tableau practice dataset.
+s135,Movie,Sample Title 135,Director 27,"Actor 87, Actor 134",India,24-02-2017,2006,TV-Y,102 min,Kids,Sample description for Tableau practice dataset.
+s136,Movie,Sample Title 136,Director 18,"Actor 46, Actor 142",Brazil,27-01-2020,2004,TV-14,126 min,Sci-Fi,Sample description for Tableau practice dataset.
+s137,Movie,Sample Title 137,Director 32,"Actor 23, Actor 178",India,23-08-2016,2000,PG,126 min,Romance,Sample description for Tableau practice dataset.
+s138,Movie,Sample Title 138,Director 26,"Actor 100, Actor 113",Spain,23-03-2021,2009,PG,84 min,Documentary,Sample description for Tableau practice dataset.
+s139,TV Show,Sample Title 139,Director 9,"Actor 45, Actor 180",Spain,16-05-2016,2012,TV-14,4 Seasons,Kids,Sample description for Tableau practice dataset.
+s140,Movie,Sample Title 140,Director 39,"Actor 83, Actor 192",India,07-02-2016,2004,PG-13,94 min,Sci-Fi,Sample description for Tableau practice dataset.
+s141,Movie,Sample Title 141,Director 11,"Actor 44, Actor 151",United States,26-11-2019,2011,TV-MA,124 min,Thriller,Sample description for Tableau practice dataset.
+s142,TV Show,Sample Title 142,Director 10,"Actor 20, Actor 124",Spain,27-07-2016,2011,TV-Y7,1 Seasons,Action,Sample description for Tableau practice dataset.
+s143,Movie,Sample Title 143,Director 21,"Actor 11, Actor 174",South Korea,19-05-2021,2011,TV-14,122 min,Comedy,Sample description for Tableau practice dataset.
+s144,TV Show,Sample Title 144,Director 40,"Actor 46, Actor 155",India,28-04-2017,2008,TV-Y,1 Seasons,Action,Sample description for Tableau practice dataset.
+s145,TV Show,Sample Title 145,Director 17,"Actor 71, Actor 147",France,21-10-2021,2004,TV-Y,5 Seasons,Drama,Sample description for Tableau practice dataset.
+s146,TV Show,Sample Title 146,Director 5,"Actor 11, Actor 186",Japan,06-07-2016,2023,TV-MA,4 Seasons,Drama,Sample description for Tableau practice dataset.
+s147,Movie,Sample Title 147,Director 13,"Actor 41, Actor 162",Canada,13-03-2018,2021,TV-14,89 min,Romance,Sample description for Tableau practice dataset.
+s148,Movie,Sample Title 148,Director 29,"Actor 74, Actor 180",Japan,04-11-2020,2009,TV-Y7,100 min,Sci-Fi,Sample description for Tableau practice dataset.
+s149,TV Show,Sample Title 149,Director 17,"Actor 62, Actor 119",Japan,30-11-2018,2007,TV-14,4 Seasons,Drama,Sample description for Tableau practice dataset.
+s150,Movie,Sample Title 150,Director 23,"Actor 45, Actor 186",France,30-05-2021,2009,PG,138 min,Comedy,Sample description for Tableau practice dataset.
+s151,TV Show,Sample Title 151,Director 3,"Actor 50, Actor 164",Japan,16-05-2019,2005,PG-13,4 Seasons,Romance,Sample description for Tableau practice dataset.
+s152,Movie,Sample Title 152,Director 22,"Actor 99, Actor 157",Spain,16-10-2017,2019,PG-13,107 min,Drama,Sample description for Tableau practice dataset.
+s153,TV Show,Sample Title 153,Director 5,"Actor 62, Actor 191",India,03-03-2020,2003,TV-Y,1 Seasons,Documentary,Sample description for Tableau practice dataset.
+s154,Movie,Sample Title 154,Director 18,"Actor 19, Actor 160",Spain,29-01-2020,2003,TV-Y7,139 min,Comedy,Sample description for Tableau practice dataset.
+s155,Movie,Sample Title 155,Director 35,"Actor 33, Actor 111",India,10-07-2021,2009,PG-13,126 min,Romance,Sample description for Tableau practice dataset.
+s156,TV Show,Sample Title 156,Director 15,"Actor 40, Actor 127",Japan,24-05-2020,2017,TV-Y,1 Seasons,Thriller,Sample description for Tableau practice dataset.
+s157,Movie,Sample Title 157,Director 10,"Actor 94, Actor 136",United Kingdom,26-12-2021,2014,R,94 min,Horror,Sample description for Tableau practice dataset.
+s158,Movie,Sample Title 158,Director 16,"Actor 37, Actor 145",Germany,10-04-2016,2001,PG,111 min,Kids,Sample description for Tableau practice dataset.
+s159,Movie,Sample Title 159,Director 12,"Actor 71, Actor 112",Brazil,22-07-2019,2017,TV-14,106 min,Sci-Fi,Sample description for Tableau practice dataset.
+s160,Movie,Sample Title 160,Director 40,"Actor 4, Actor 129",France,03-01-2022,2021,TV-14,117 min,Comedy,Sample description for Tableau practice dataset.
+s161,TV Show,Sample Title 161,Director 17,"Actor 30, Actor 154",United States,01-08-2022,2013,PG,3 Seasons,Documentary,Sample description for Tableau practice dataset.
+s162,TV Show,Sample Title 162,Director 20,"Actor 58, Actor 138",South Korea,27-09-2018,2003,TV-14,3 Seasons,Comedy,Sample description for Tableau practice dataset.
+s163,Movie,Sample Title 163,Director 15,"Actor 35, Actor 143",Japan,20-01-2022,2001,TV-MA,97 min,Action,Sample description for Tableau practice dataset.
+s164,TV Show,Sample Title 164,Director 20,"Actor 79, Actor 112",Brazil,01-09-2022,2004,R,3 Seasons,Kids,Sample description for Tableau practice dataset.
+s165,TV Show,Sample Title 165,Director 22,"Actor 34, Actor 190",South Korea,17-11-2019,2011,PG-13,5 Seasons,Horror,Sample description for Tableau practice dataset.
+s166,Movie,Sample Title 166,Director 31,"Actor 19, Actor 167",Brazil,23-02-2020,2003,TV-Y,86 min,Comedy,Sample description for Tableau practice dataset.
+s167,Movie,Sample Title 167,Director 29,"Actor 40, Actor 110",Canada,04-04-2022,2013,PG,95 min,Adventure,Sample description for Tableau practice dataset.
+s168,TV Show,Sample Title 168,Director 34,"Actor 59, Actor 188",Germany,09-11-2019,2023,TV-Y7,1 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s169,TV Show,Sample Title 169,Director 34,"Actor 99, Actor 104",Japan,09-10-2017,2013,TV-Y,5 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s170,Movie,Sample Title 170,Director 32,"Actor 74, Actor 138",India,22-09-2020,2007,R,108 min,Thriller,Sample description for Tableau practice dataset.
+s171,TV Show,Sample Title 171,Director 39,"Actor 13, Actor 158",United Kingdom,16-01-2016,2017,PG,5 Seasons,Horror,Sample description for Tableau practice dataset.
+s172,Movie,Sample Title 172,Director 14,"Actor 72, Actor 134",France,30-12-2017,2021,PG,80 min,Comedy,Sample description for Tableau practice dataset.
+s173,Movie,Sample Title 173,Director 8,"Actor 16, Actor 187",United States,20-06-2021,2018,TV-Y7,116 min,Action,Sample description for Tableau practice dataset.
+s174,TV Show,Sample Title 174,Director 10,"Actor 61, Actor 197",South Korea,07-10-2022,2014,PG-13,1 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s175,Movie,Sample Title 175,Director 29,"Actor 16, Actor 174",Spain,28-07-2022,2003,R,89 min,Kids,Sample description for Tableau practice dataset.
+s176,Movie,Sample Title 176,Director 26,"Actor 59, Actor 111",United Kingdom,27-02-2017,2003,TV-14,94 min,Sci-Fi,Sample description for Tableau practice dataset.
+s177,TV Show,Sample Title 177,Director 11,"Actor 40, Actor 159",France,22-07-2017,2016,PG-13,1 Seasons,Kids,Sample description for Tableau practice dataset.
+s178,TV Show,Sample Title 178,Director 29,"Actor 61, Actor 138",Germany,14-07-2018,2001,TV-14,2 Seasons,Documentary,Sample description for Tableau practice dataset.
+s179,Movie,Sample Title 179,Director 31,"Actor 63, Actor 132",Japan,09-04-2020,2003,TV-MA,103 min,Horror,Sample description for Tableau practice dataset.
+s180,TV Show,Sample Title 180,Director 14,"Actor 30, Actor 168",South Korea,01-07-2019,2021,PG-13,4 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s181,Movie,Sample Title 181,Director 16,"Actor 2, Actor 191",South Korea,12-01-2016,2003,TV-MA,84 min,Drama,Sample description for Tableau practice dataset.
+s182,Movie,Sample Title 182,Director 29,"Actor 77, Actor 175",Brazil,26-09-2016,2016,PG,116 min,Thriller,Sample description for Tableau practice dataset.
+s183,Movie,Sample Title 183,Director 9,"Actor 96, Actor 174",Japan,19-02-2020,2003,R,100 min,Thriller,Sample description for Tableau practice dataset.
+s184,TV Show,Sample Title 184,Director 23,"Actor 1, Actor 176",United Kingdom,27-05-2017,2013,TV-Y7,1 Seasons,Horror,Sample description for Tableau practice dataset.
+s185,Movie,Sample Title 185,Director 29,"Actor 80, Actor 127",Japan,01-11-2018,2015,R,85 min,Romance,Sample description for Tableau practice dataset.
+s186,Movie,Sample Title 186,Director 5,"Actor 24, Actor 127",France,07-04-2018,2009,PG,119 min,Thriller,Sample description for Tableau practice dataset.
+s187,Movie,Sample Title 187,Director 21,"Actor 75, Actor 162",Germany,12-02-2016,2016,TV-Y7,101 min,Action,Sample description for Tableau practice dataset.
+s188,TV Show,Sample Title 188,Director 31,"Actor 49, Actor 123",United States,15-07-2022,2016,TV-14,3 Seasons,Sci-Fi,Sample description for Tableau practice dataset.
+s189,TV Show,Sample Title 189,Director 10,"Actor 89, Actor 158",United States,21-10-2016,2013,TV-MA,2 Seasons,Thriller,Sample description for Tableau practice dataset.
+s190,Movie,Sample Title 190,Director 6,"Actor 11, Actor 180",United Kingdom,29-08-2020,2006,TV-Y7,109 min,Sci-Fi,Sample description for Tableau practice dataset.
+s191,TV Show,Sample Title 191,Director 18,"Actor 82, Actor 103",Brazil,20-04-2018,2008,PG-13,2 Seasons,Documentary,Sample description for Tableau practice dataset.
+s192,TV Show,Sample Title 192,Director 30,"Actor 96, Actor 186",Germany,25-05-2022,2000,TV-14,2 Seasons,Romance,Sample description for Tableau practice dataset.
+s193,Movie,Sample Title 193,Director 37,"Actor 46, Actor 157",Spain,06-08-2016,2023,PG-13,127 min,Horror,Sample description for Tableau practice dataset.
+s194,TV Show,Sample Title 194,Director 1,"Actor 72, Actor 102",Brazil,12-04-2018,2005,TV-14,4 Seasons,Comedy,Sample description for Tableau practice dataset.
+s195,Movie,Sample Title 195,Director 40,"Actor 65, Actor 132",United States,25-10-2018,2002,TV-Y,130 min,Documentary,Sample description for Tableau practice dataset.
+s196,TV Show,Sample Title 196,Director 27,"Actor 49, Actor 179",Canada,27-03-2017,2003,R,2 Seasons,Horror,Sample description for Tableau practice dataset.
+s197,TV Show,Sample Title 197,Director 1,"Actor 44, Actor 154",United Kingdom,30-05-2021,2009,TV-Y,5 Seasons,Drama,Sample description for Tableau practice dataset.
+s198,TV Show,Sample Title 198,Director 34,"Actor 27, Actor 199",France,19-12-2017,2024,PG-13,4 Seasons,Adventure,Sample description for Tableau practice dataset.
+s199,Movie,Sample Title 199,Director 3,"Actor 82, Actor 105",South Korea,09-06-2018,2018,TV-Y,102 min,Adventure,Sample description for Tableau practice dataset.
+s200,Movie,Sample Title 200,Director 12,"Actor 58, Actor 145",Japan,20-01-2020,2011,TV-Y7,85 min,Romance,Sample description for Tableau practice dataset.
